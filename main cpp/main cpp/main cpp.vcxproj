@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{da8b6703-f4e6-4541-9448-d75871c653b0}</ProjectGuid>
-    <RootNamespace>funcionsforinputingdata</RootNamespace>
+    <ProjectGuid>{3a3cd53c-9df7-41c5-979f-948b41fa4ab2}</ProjectGuid>
+    <RootNamespace>maincpp</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="funcions for inputing data.cpp" />
+    <ClCompile Include="main cpp.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
